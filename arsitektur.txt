@@ -1,2 +1,0 @@
-minta password -> password di enkripsi -> password di simpan
--> jalankan script absen
