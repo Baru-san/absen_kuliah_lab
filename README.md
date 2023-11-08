@@ -1,6 +1,6 @@
-# absen_kuliah_lab
+# absen kuliah lab
 
-program ini dibuat dengan fungsi untuk melakukan absen secara otomatis
+program ini dibuat dengan fungsi untuk melakukan absen secara otomatis Simkuliah dan Siplab
 untuk mahasiswa USK
 
 ## cara penggunaan
